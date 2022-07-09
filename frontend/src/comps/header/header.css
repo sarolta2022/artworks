@@ -1,0 +1,18 @@
+.Header {
+  padding: 1.5rem 0;
+  background-color: #116530;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Header nav {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.Header a {
+  color: #fff;
+  font-family: "Roboto";
+  font-size: 1.5rem;
+}

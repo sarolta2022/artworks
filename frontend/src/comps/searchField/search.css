@@ -1,0 +1,20 @@
+.search-form {
+  margin: 4rem;
+}
+.search-input {
+  border: none;
+  background-color: #f2f2f2;
+  padding: 0.5rem 1rem;
+}
+
+.search-Btn {
+  margin-left: 2rem;
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 2%;
+  font-family: "Roboto", sans-serif;
+  background-color: #116530;
+  text-align: center;
+  transition: 250ms;
+  color: white;
+}

@@ -1,0 +1,65 @@
+@import url("https://fonts.googleapis.com/css2?family=Parisienne&display=swap");
+
+body {
+  background-color: #ffe6ab;
+}
+.SingleImage {
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  max-width: 80vw;
+}
+
+.singleImage_img img {
+  width: 30vw;
+  border-radius: 5px;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.singleImage_img {
+  position: relative;
+  max-width: 80vw;
+  margin: 10vh auto;
+}
+
+.singleImage_img button {
+  position: absolute;
+  right: -5vw;
+  top: -5vh;
+  height: 12vh;
+  max-width: 20vw;
+  border-radius: 5px;
+  padding: 4%;
+  border: none;
+  font-family: "Parisienne", cursive;
+  font-size: 1.5rem;
+  font-weight: 300;
+  letter-spacing: 0.1rem;
+  background-color: #357c3c;
+  color: #ffe6ab;
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.singleImage_img button:hover {
+  background-color: #573391;
+  color: #ffe6ab;
+}
+
+.singleImage_text {
+  width: 80vw;
+  margin-left: 10vw;
+  text-align: left;
+  color: #573391;
+}
+.singleImage_text p {
+  margin: 2%;
+
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.icon {
+  font-size: 2rem;
+  margin-right: 2%;
+  color: #573391;
+}
