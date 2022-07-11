@@ -1,0 +1,45 @@
+{
+  "users": [
+    {
+      "email": "b@b.com",
+      "password": "$2a$10$TvdC25sJsBFNKoorA9htOeLeYU3Ou07NegIxp/sY/P1vLAmtkIorm",
+      "favs": [
+        {
+          "url": "https://pixabay.com/get/gc607a1cececc1256e2e3f7a66b4739194a358e27d3bf578e19b96cbc54aac1e3fbf5d4d2587dc2aa08c7e920357a7c079069171206974dc42d608b9b3adbd039_1280.jpg",
+          "tags": "windows, design, art"
+        }
+      ]
+    },
+    {
+      "email": "a@a.com",
+      "password": "$2a$10$84YpS4Y4yQArmHOA8lrKyO78nwTfX3x3G02vyOPqlxhCYkMbhJsGK",
+      "favs": []
+    },
+    {
+      "email": "ma@ma.hu",
+      "password": "$2a$10$ZOk/Tf3Qbiga8zlpjrqEQOJ4pU37r7ai7Ud6QeIkrX3dGpL9YL8dm",
+      "favs": [
+        {
+          "url": "https://pixabay.com/get/gcae37669245130bc2e989f6f163fbf411ac217d41c6ce397deac572f1eb87e899044e12d10846178d407c9fe270d99a5dd4c4fc56cbf4acafb21075fe11e25df_1280.png",
+          "tags": "dove of peace, flag, symbol",
+          "id": 7051688
+        },
+        {
+          "url": "https://pixabay.com/get/g541a1bbe05836143fc701ff446bbe2378216fe5c335c1042dec2a84a77ae99ef1716cfa6a840a202af0563c15cbb25b890d6e3bcc9541b08b5025a6ce8fe8171_1280.jpg",
+          "tags": "tourist attraction, eiffel tower, travel",
+          "id": 7037967
+        },
+        {
+          "url": "https://pixabay.com/get/g644fccb0c29f602db76264ef95eae610b3ed1fa10808d6f5ffe383188939684f339c5e027b8295b80addc473a409e183_1280.jpg",
+          "tags": "owl, bird, animal",
+          "id": 50267
+        },
+        {
+          "url": "https://pixabay.com/get/gfb88f0ca18d10211add994dd1e97aaa6550ef3eca5c5aaaa8a0d889de960d5a96bc6a75648dff51f88a4fe5b1c151a177fcadcef64fa76860a7207cd04bc6a34_1280.jpg",
+          "tags": "bird, indian chat, ornithology",
+          "id": 6983434
+        }
+      ]
+    }
+  ]
+}
